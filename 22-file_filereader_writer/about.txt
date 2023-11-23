@@ -1,0 +1,3 @@
+My name is AKhil.
+this is a text which show read with filereader class 
+
